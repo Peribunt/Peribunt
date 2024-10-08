@@ -1,5 +1,4 @@
 # ReaP
-Dabbler and scholar of reverse engineering, Windows internals, and microarchitectural exploits; 
 Publisher of brief and concise POCs and writeups.
 Most repositories are subject to change or removal.
 
