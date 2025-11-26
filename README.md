@@ -6,4 +6,4 @@ Most repositories are subject to change or removal.
 - Discord: `sysret` 
 - E-Mail: `creepthereap@gmail.com`
 
-![Stats](https://github.com/Peribunt/Peribunt/blob/main/profile-3d-contrib/profile-night-view.svg)
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
