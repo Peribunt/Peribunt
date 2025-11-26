@@ -6,4 +6,4 @@ Most repositories are subject to change or removal.
 - Discord: `sysret` 
 - E-Mail: `creepthereap@gmail.com`
 
-[![ReaP's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peribunt&theme=gruvbox)](https://github.com/Peribunt/github-readme-stats)
+![Stats](https://github.com/Peribunt/Peribunt/blob/main/profile-3d-contrib/profile-night-view.svg)
